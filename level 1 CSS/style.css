@@ -1,0 +1,24 @@
+table{
+  text-align: center;
+  color: red;
+}
+
+p{
+    color: rgb(8, 189, 56);
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid black;
+    text-align: center;
+}
+.my-class{
+    background-color: rgb(145, 135, 123);
+}
+
+
+#para{
+    background-color: rgb(140, 140, 150);
+    color: black;
+}
+div, p ,ul ,h1 {
+  color: rgb(242, 9, 40);
+}
